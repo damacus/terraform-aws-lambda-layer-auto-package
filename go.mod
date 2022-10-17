@@ -1,6 +1,6 @@
 module damacus/terraform-aws-lambda-layer-auto-package
 
-go 1.14
+go 1.19
 
 require (
 	github.com/gruntwork-io/terratest v0.40.23
