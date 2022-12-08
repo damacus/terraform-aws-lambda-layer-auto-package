@@ -3,7 +3,7 @@ module damacus/terraform-aws-lambda-layer-auto-package
 go 1.19
 
 require (
-	github.com/gruntwork-io/terratest v0.41.0
+	github.com/gruntwork-io/terratest v0.41.4
 	github.com/stretchr/testify v1.8.1
 )
 
